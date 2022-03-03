@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Rodolfo Braga!
 
 - 💻 Estudo Desenvolvimento Web na Trybe
-- 📚 Atualmente estudando Docker
+- 📚 Atualmente estudando POO e SOLID
 - :mag_right: Em busca de uma oportunidade como Desenvolvedor Web Junior
 - 📫 E-mail para contato: rodolfo.braga@yahoo.com.br
 
@@ -24,6 +24,10 @@
   <img align="center" alt="NPM" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
   <img align="center" alt="Linux" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img align="center" alt="MySQL" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="Nodejs" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="Express" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" />
+  <img align="center" alt="Typescript" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" />
 </div>
  
 ##
