@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Rodolfo Braga!
 
-- 💻 Estudo Desenvolvimento Web na Trybe
-- 📚 Atualmente estudando POO e SOLID
-- :mag_right: Em busca de uma oportunidade como Desenvolvedor Web Junior
+- 💻 Desenvolvedor Web pela Trybe
+- 📚 Atualmente faço parte do time da Vortigo Digital
+- :mag_right: Atuando no projeto da conta digital Superdigital, com a plataforma Transmit Security
 - 📫 E-mail para contato: rodolfo.braga@yahoo.com.br
 
 <br>
