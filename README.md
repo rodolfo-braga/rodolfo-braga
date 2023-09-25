@@ -1,14 +1,14 @@
 ## Olá! Eu sou o Rodolfo Braga!
 
-- 💻 Desenvolvedor Web pela Trybe
-- 📚 Atualmente faço parte do time da Vortigo Digital
-- :mag_right: Atuando no projeto da conta digital Superdigital, com a plataforma Transmit Security
+- 💻 Desenvolvedor Fullstack pela <a href="https://www.betrybe.com/">Trybe</a>
+- 📚 Atualmente faço parte do time de desenvolvimento da <a href="https://vortigo.digital/">Vortigo Digital</a>
+- :mag_right: Atuando no projeto da conta <a href="https://superdigital.com.br/">Superdigital</a>, com a plataforma Transmit Security
 - 📫 E-mail para contato: rodolfo.braga@yahoo.com.br
 
 <br>
 <div>
   <a href="https://github.com/rodolfo-braga">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodolfo-braga&show_icons=true&theme=prussian&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodolfo-braga&show_icons=true&theme=prussian&include_all_commits=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfo-braga&layout=compact&card_width=240&langs_count=7&theme=prussian"/>
 </div>
 
