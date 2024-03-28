@@ -1,8 +1,7 @@
 ## Olá! Eu sou o Rodolfo Braga!
 
 - 💻 Desenvolvedor Fullstack pela <a href="https://www.betrybe.com/">Trybe</a>
-- 📚 Atualmente faço parte do time de desenvolvimento da <a href="https://vortigo.digital/">Vortigo Digital</a>
-- :mag_right: Atuando no projeto da conta <a href="https://superdigital.com.br/">Superdigital</a>, com a plataforma Transmit Security
+- 📚 Atualmente faço parte do time de desenvolvimento do Mercado Livre
 - 📫 E-mail para contato: rodolfo.braga@yahoo.com.br
 
 <br>
